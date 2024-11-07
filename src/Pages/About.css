@@ -1,0 +1,41 @@
+.Nav2{
+    background-color: darkslateblue;
+    color: aquamarine;
+    padding: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+    line-height: 1.6;
+    
+    min-height: 100vh;
+   
+}
+
+.Nav2 h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+    
+  }
+  
+
+.about, .work, .education{
+    margin-bottom: 30px;
+    padding: 0 15%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 15px;
+  }
+
+  .Nav2 span {
+    display: block;
+    font-size: 14px;
+    color: rgb(18, 141, 194);
+  }
+  

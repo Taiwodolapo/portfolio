@@ -1,0 +1,50 @@
+.Nav3{
+    background-color: brown;
+    color: black;
+    text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  padding-top: 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.greeting {
+    text-align: inherit;
+    font-weight: normal;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: black;
+  }
+
+.contact{
+    margin: 5px 0;
+    text-align: center;
+  
+}
+
+
+.social {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .social a {
+    margin: 0 5px;
+    color: rgb(204,0,136);
+    font-size: 1.2em;
+  }
+
+  
+.credit {
+    font-size: 0.9em;
+    color: black;
+    display: flex;
+    justify-content: center;  
+  }
+  
