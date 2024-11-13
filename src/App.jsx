@@ -12,7 +12,7 @@ function App() {
 
   return (
     
-    <>
+    <div className='app'>
     <Header />
    <Home/>
    <About />
@@ -22,7 +22,7 @@ function App() {
    <Contact/>
   
   
-   </>
+   </div>
       
   );
 

@@ -5,14 +5,14 @@ const About = () => {
 
     return(
 
-    <div className='Nav2'>
+    <div id='about' className='Nav2'>
 
       <section className='about'>
       <h1>About Me</h1> 
       <p>
-Welcome to my portfolio! My name is Taiwo Dolapo Ogunsina, and i am a passionate software developer, i am based in Lagos Nigeria.
-I enjoy leaning more on technology and designing. I am a front-end developer based in Lagos, Nigeria. I love to learn new things, and software development is one of them. I'd love
-to gain insight and work together with other developers to acquire more knowledge.
+ My name is Ogunsina Taiwo Dolapo, I am a front-end developer based in Lagos, Nigeria.
+I enjoy learning more on technology and designing. I love to learn new things, and software development is one of them. I'd love
+to gain more insight and work together with other developers to acquire more knowledge.
  </p>
 </section>
       

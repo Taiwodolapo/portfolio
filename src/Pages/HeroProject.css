@@ -2,7 +2,7 @@
     text-align: center;
     width: 100%;
     padding: 20px;
-    background-color: #f9f5f0;
+    background-color: beige;
    ;
   }
   
@@ -28,13 +28,7 @@
     padding: 15px;
     text-align: left;
   }
-  
-  .project-card img {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-  }
-  
+ 
   .project-card h4 {
     font-size: 1.2em;
     margin: 10px 0;
@@ -50,3 +44,9 @@
     text-decoration: none;
     font-weight: bold;
   }
+
+ .product-card img{
+  width: 150px;
+  height: 150px;
+ 
+ }

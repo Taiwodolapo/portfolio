@@ -3,11 +3,11 @@ import './Contact.css'
 const Contact = () => {
     return(
 
-    <div className='Nav3'> 
+    <div id='contact' className='Nav3'> 
       
     <div className='greeting'>
-    <h1><strong>Contact page</strong></h1> 
-    <span>Thanks for </span> <br /> stopping by!
+     
+    <h1>Thanks for veiwing <br /> my portfoilo </h1>
     </div>
 
     <div className='contact'>
